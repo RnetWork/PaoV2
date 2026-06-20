@@ -6,6 +6,7 @@ import FadeUp from "@/components/FadeUp";
 export const metadata: Metadata = {
   title: "Gallery",
   description: "Browse completed Eco Vista Carpentry projects — timber frame homes, porches, and bespoke woodwork across Ireland.",
+  openGraph: { images: [{ url: "/images/finished/09-img-4729.jpg", width: 1200, height: 630 }] },
 };
 
 const portfolio = [

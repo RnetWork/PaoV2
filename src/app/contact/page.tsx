@@ -7,6 +7,7 @@ import ContactForm from "@/components/ContactForm";
 export const metadata: Metadata = {
   title: "Contact",
   description: "Get in touch with Eco Vista Carpentry. We build timber frame homes across Ireland and speak your language — no language barriers.",
+  openGraph: { images: [{ url: "/images/finished/08-img-4713.jpg", width: 1200, height: 630 }] },
 };
 
 const details = [
